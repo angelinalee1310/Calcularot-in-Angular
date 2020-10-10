@@ -1,0 +1,48 @@
+
+#calc-wrap {
+  margin: 100px auto;
+  overflow: hidden;
+  width: 250px;
+  border-radius: 10px;
+  border: 1px solid #949493;
+  box-shadow: 3px 3px 7px #000;
+  text-align: center;
+}
+
+#calc {
+  margin: 10px auto;
+  width: 220px;
+}
+
+.inputVal {
+  background: #ccc;
+  margin: 0 auto;
+  overflow: hidden;
+  width: 207px;
+  height: 30px;
+  border-radius: 5px;
+  font-size: 24px;
+}
+
+.historyCalc {
+  overflow: hidden;
+  width: 207px;
+  border: #949493 1px;
+  border-radius: 5px;
+  font-size: 24px;
+}
+
+.btn {
+  display: inline-block;
+  margin: 2px auto;
+  overflow: hidden;
+  width: 50px;
+  height: 50px;
+  border-radius: 5px;
+  font-size: 24px;
+}
+
+.btn:hover {
+  background: #ccc;
+  color: #fff;
+}
